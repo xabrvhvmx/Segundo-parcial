@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_P2Practica3_LMUA</string>
+    <string name="listo_para_iniciar">Listo para iniciar</string>
+    <string name="iniciar_tarea">Iniciar tarea</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="iniciando_tarea">Iniciando tarea</string>
+    <string name="proceso_completado">Proceso Completado</string>
+    <string name="tarea_cancelada">Tarea cancelada</string>
+    <string name="porcentaje_cero">0%</string>
+    <string name="porcentaje_cien">100%</string>
+    <string name="porcentaje_formato">%d%%</string>
+</resources>
