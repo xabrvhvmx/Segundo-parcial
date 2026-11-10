@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_p2P4_LMUA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ver_imagen">Ver imagen</string>
+    <string name="capturar_datos">Capturar datos</string>
+</resources>
