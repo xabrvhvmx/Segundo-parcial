@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_p2PRACT1_LMUA</string>
+    <string name="p1titulo">Manejo de componentes Views</string>
+    <string name="p1btn1">Primer boton</string>
+    <string name="p1btn2">Segundo boton</string>
+    <string-array name="Estados">
+        <item>Chihuahua</item>
+        <item>Establo de México</item>
+        <item>Ciudad de México</item>
+        <item>Puebla</item>
+        <item>Oaxaca</item>
+    </string-array>
+
+</resources>
